@@ -1,0 +1,2 @@
+# aprendizaje_automatico
+APRENDIZAJE AUTOMÁTICO: TEORÍA Y APLICACIONES
